@@ -1,3 +1,7 @@
 /home/oracle/learngit
 
+<<<<<<< HEAD
 ADD MASTER
+=======
+ADD BRANCH DEV
+>>>>>>> dev
